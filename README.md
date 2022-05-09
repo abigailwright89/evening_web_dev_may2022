@@ -1,11 +1,11 @@
-# Welcome everyone to your Bath Spa Web Development Bootcamp.
+# Welcome everyone to your Bath Spa Web Dev Bootcamp [🎯](#icons-)
 
-## Amira(your instructor) who will be right with you throughout your learning Journey!!!.So Developers let's get ready:
+## Amira(your instructor)- [👻](#gifs-) who will be right with you throughout your learning Journey!!!.So Developers let's get ready:
 
-# Evening_web_dev_may2022
+# Evening_web_dev_may2022 
 This Github repository will be used throughout the bootcamp course for sharing instructions and information
 
-# Overview & Content
+# Overview & Content [Code Mode 👨🏽‍💻](#code-mode-)
 
 ## What to expect from the Web Development Bootcamp.
 
@@ -65,4 +65,14 @@ The Slack channel is a great place to communicate both with other students and y
 ## [Microsoft VS Code (Web Editor)](https://code.visualstudio.com/)
 ## [GitHub](https://www.github.com/)
 ## [Codesandbox](https://codesandbox.io/)
+
+
+Congrats you are done and I will see you all!!!
+
+Best wishes,
+
+# Amira Ahmed
+## Associate Lecturer, Creative Computing & Web Development
+## Email: a.ahmed2@bathspa.ac.uk
+
 
