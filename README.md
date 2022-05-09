@@ -1,8 +1,10 @@
 # Welcome everyone to your Bath Spa Web Dev Bootcamp [🎯](#icons-)
 
-## Amira(your instructor)- [👻](#gifs-) who will be right with you throughout your learning Journey!!!.So Developers let's get ready:
+## Hi from Amira (your instructor)- [👻](#gifs-) who will be right with you throughout your learning Journey!!!.
 
-# Evening_web_dev_may2022 
+
+## 🔥 Developers let's get ready:
+
 This Github repository will be used throughout the bootcamp course for sharing instructions and information
 
 # Overview & Content [Code Mode 👨🏽‍💻](#code-mode-)
@@ -58,6 +60,7 @@ https://apps.google.com/intl/en/meet/how-it-works/
 ### Follow this link to join our Slack group.https://join.slack.com/t/bathspawebdev/shared_invite/zt-wxnsameq-thuh1xjuJTyDtdoQUM_WlA this is where we will communicate day-to-day: 
 The Slack channel is a great place to communicate both with other students and your lecturers, and where the majority of communication will take place for the duration of the bootcamp, so we strongly encourage you to join.
 
+### I am also communicating through Social Media ,Signup to Intagram and create professional profile and follow me here ✨ :https://www.instagram.com/drdesigndotcode/
 
 # Tools we will use over the time :
 
@@ -69,7 +72,7 @@ The Slack channel is a great place to communicate both with other students and y
 
 Congrats you are done and I will see you all!!!
 
-Best wishes,
+Best wishes 🙇,
 
 # Amira Ahmed
 ## Associate Lecturer, Creative Computing & Web Development
