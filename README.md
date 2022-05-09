@@ -7,7 +7,7 @@
 
 This Github repository will be used throughout the bootcamp course for sharing instructions and information
 
-# Overview & Content [Code Mode 👨🏽‍💻](#code-mode-)
+# Overview & Content [👨🏽‍💻](#code-mode-)
 
 ## What to expect from the Web Development Bootcamp.
 
