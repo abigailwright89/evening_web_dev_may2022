@@ -1,4 +1,4 @@
-# Welcome everyone to your Bath Spa Web Dev Bootcamp [🎯](#icons-)
+# Welcome everyone to Bath Spa Web Dev Bootcamp [🎯](#icons-)
 
 ## Hi from Amira (your instructor)- [👻](#gifs-) who will be right with you throughout your learning Journey!!!.
 
