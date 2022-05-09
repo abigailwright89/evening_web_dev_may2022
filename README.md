@@ -75,7 +75,7 @@ Congrats you are done and I will see you all!!!
 Best wishes 🙇,
 
 # Amira Ahmed
-## Associate Lecturer, Creative Computing & Web Development
+## Digital Lecturer, Creative Computing & Web Development
 ## Email: a.ahmed2@bathspa.ac.uk
 
 
