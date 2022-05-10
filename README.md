@@ -59,7 +59,7 @@ https://apps.google.com/intl/en/meet/how-it-works/
 ### Download the Slack app: https://slack.com/intl/en-gb/help/categories/360000049043-Getting-started#download-slack
 
 
-### Follow this link to join our Slack group.https://join.slack.com/t/bathspawebdev/shared_invite/zt-wxnsameq-thuh1xjuJTyDtdoQUM_WlA this is where we will communicate day-to-day: 
+### Follow this link to join our Slack group.https://join.slack.com/t/bathspawebdev/shared_invite/zt-yz5qzcn5-yPYaGGcVckQHWjUw7dA7hQ this is where we will communicate day-to-day: 
 The Slack channel is a great place to communicate both with other students and your lecturers, and where the majority of communication will take place for the duration of the bootcamp, so we strongly encourage you to join.
 
 ### I am also communicating through Social Media ,Signup to Intagram and create professional profile and follow me here ✨ :https://www.instagram.com/drdesigndotcode/
